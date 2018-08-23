@@ -21,4 +21,4 @@ Remember to make **npm i or npm install** in the root of the app to install the 
 
 ## Demonstration
 
-![React App](https://raw.githubusercontent.com/JoanVasquezreact-pagination/master/demonstration/1.png)
+![React App](https://github.com/JoanVasquez/react-pagination/blob/master/demonstration/1.png)
